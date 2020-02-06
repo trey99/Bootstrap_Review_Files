@@ -134,7 +134,7 @@ h3.heading {
 /*---Resources--*/
 
 .fixed {
-    background-image: url(../img/apple.png);
+    background-image: url(../img/max.jpg);
     z-index: -1;
 }
 .dark {
@@ -169,6 +169,7 @@ footer {
     color: white;
     padding: 2rem 0 2rem;
     margin-top: 1rem;
+
 }
 
 footer img {
@@ -185,11 +186,12 @@ footer svg.svg-inline-fa {
 footer svg.svg-inline-fa {
     color: #1ebba3 !important;
 }
-hr .socket {
+hr.socket {
     width: 100%;
     border-top: .2rem solid #666b71;
     margin-top: 3rem;
 }
+
 
 /*-- Media Queries--*/
 @media (max-width: 768px) {
