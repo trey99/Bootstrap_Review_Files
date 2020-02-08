@@ -148,11 +148,16 @@ h3.heading {
 .fixed-background p {
     margin-top: 2.5rem;
 }
-
+.TTF2 {
+  color: #1ebba3;
+}
+.TTF2:hover {
+  color: #1ebba3;
+}
 /*---CLients--*/
 .clients img {
     width: 100%;
-    border-radius: 50%;
+    border-radius: 30%;
 }
 
 blockquote .svg-inline-fa {
