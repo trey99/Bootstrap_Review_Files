@@ -22,7 +22,8 @@ body {
     background: rgba(0, 0, 0, 0,6) !important;
 }
 .navbar-brand img {
-    height: 2rem;
+    height: 3rem;
+    width: 10rem;
 }
 .navbar-nav li {
     padding-right: .7rem;
@@ -178,7 +179,7 @@ footer {
 }
 
 footer img {
-    height: 3rem;
+    height: 4rem;
     margin: 1.5rem 0;
 }
 footer a {
